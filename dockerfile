@@ -1,5 +1,5 @@
 # BASE openjdk:8-jdk-alpine
-FROM openjdk:8-jdk-alphine
+FROM openjdk:8
 VOLUME /data/wurmwebrmi
 EXPOSE 8080
 
